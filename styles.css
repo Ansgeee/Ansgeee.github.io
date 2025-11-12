@@ -1,11 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Geist:wght@100..900&display=swap');
-// <weight>: Use a value from 100 to 900
-.geist-font {
-  font-family: "Geist", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 400;
-  font-style: normal;
-}
+@import url('https://fonts.googleapis.com/css2?family=Geist&display=swap');
 
 body{
 	background-color: #000000;
