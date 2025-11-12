@@ -10,6 +10,10 @@ body{
 }
 
 .ascii {
-	font-size: 0.5vw;
+	color: #FFFFFF;
+	font-family: "Geist", sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 0.2vw;
 	line-height: 0.8;
 }
