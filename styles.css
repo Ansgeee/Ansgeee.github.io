@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Geist&display=swap');
 @font-face {
 	font-family: Geist;
-	src: @import url('https://fonts.googleapis.com/css2?family=Geist&display=swap');
+	src: url('https://fonts.googleapis.com/css2?family=Geist&display=swap');
 }
 
 body{
