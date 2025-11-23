@@ -12,6 +12,8 @@ body{
 .ascii {
 	padding-left: 0.5vw;
 	border-left: 0.2vw solid #FFFFFF;
+	padding-bottom: 0.5vw;
+	border-bottom: 0.2vw solid #FFFFFF;
 	float: right;
 	margin-right: 1vw;
 	font-size: 0.4vw;
