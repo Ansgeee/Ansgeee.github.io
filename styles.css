@@ -10,7 +10,8 @@ body{
 }
 
 .ascii {
-	border-left: 1vw solid #FFFFFF;
+	padding-left: 0.5vw;
+	border-left: 0.5vw solid #FFFFFF;
 	float: right;
 	margin-right: 1vw;
 	font-size: 0.4vw;
