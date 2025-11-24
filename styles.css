@@ -69,11 +69,11 @@ body {
 
 @keyframes shoot {
   0% {
-    transform: translateX(0) translateY(0) rotate(205deg);
+    transform: translateX(0) translateY(0) rotate(195deg);
     opacity: 1;
   }
   100% {
-    transform: translateX(120vw) translateY(50vh) rotate(205deg);
+    transform: translateX(120vw) translateY(50vh) rotate(195deg);
     opacity: 0;
   }
 }
