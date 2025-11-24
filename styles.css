@@ -1,4 +1,4 @@
-* { 
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -78,6 +78,7 @@ body {
   }
 }
 
+/* Additional twinkling stars with different animation timing */
 .stars::after {
   content: "";
   position: absolute;
@@ -93,6 +94,7 @@ body {
     51vw 92vh 2px white, 59vw 78vh 1px white;
   animation: twinkle 6s infinite linear reverse;
 }
+
 
 #text {
 	color: #FFFFFF;
